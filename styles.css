@@ -3,4 +3,14 @@ body,h1{
 }
 .main-div{
     background-color: #f0f2f5;
+    display: flex;
+    justify-content: center;
 }
+
+#logo{
+    color: #1877f2;
+    font-family: Arial, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 20px;
+} 
